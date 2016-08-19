@@ -1,0 +1,9 @@
+body { background-color: #FFFFFF; color: #000000; margin:0px; font-family: "Times New Roman", Times, serif;}
+.smaller { font-family: "Times New Roman", Times, serif; font-size: small}
+.codeandnames { font-family: "Courier New", Courier, mono; text-decoration: none; font-weight: bold}
+.highlightcolour { color: #FF3300; background-color:#FFFFFF}
+.rightpanel { border: 1px solid #97bfff; float:none; width:auto; margin:3px}
+.breakhere { page-break-before: always}
+#header { display: none !important;}
+#footer { position:relative; clear:both; text-align:center; font-size:0.7em; }
+#container { margin: 0px;}

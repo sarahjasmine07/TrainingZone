@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="css/Main_css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1 id="Banner">Training Zone</h1>
+<h2 id="Nav_Bar"> <table border="2">
+<tbody> 
+	<tr> 
+    	<td width="150"><a href="index.html">Home</a></td>
+        <td width="200">History</td>
+        <td width="200">Training Articles</td>
+        <td width="200">Contact</td>
+ 	</tr>
+</tbody>
+</table>
+</h2>
+
+<!-- TemplateBeginEditable name="MainContent"-->
+
+
+<p id="Content">Main Content</p>
+
+<!--TemplateEndEditable-->
+<p id="Footer">© Copyright Robert Bacal, 2000.
+<br> 
+<br>Contact: 07 4779 1243
+<br>fax: 4779 1244
+<br>address: 12 Plongk Street, Cairnsville, Queensland
+<br>email: training@trainingzone.com.au
+</p>
+
+</body>
+</html>

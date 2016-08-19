@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/Main_css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1 id="Banner">Training Zone History</h1>
+<h2 id="Nav_Bar"> <table border="2">
+<tbody> 
+	<tr> 
+    	<td width="150"><a href="../index.html">Home</a></td>
+        <td width="200">History</td>
+        <td width="200">Training Articles</td>
+        <td width="200">Contact</td>
+ 	</tr>
+</tbody>
+</table>
+</h2>
+
+<!-- TemplateBeginEditable name="MainContent"-->
+
+<h4> History of Training Zone </h4>
+
+<p id="Content">Training Zone have been the leader in all kinds of training that covers management and IT in Plongk St, Cairnsville for the last 150 years. The founder of the company, Touglas Zonas is still CEO and spokesperson for Training Zone. Here is one of his first training lessons, the world-famous <em> Lecture Clash </em> training:</p>
+
+<p id="Content">Anyone got a lecture clash? They're not pretty, but with your help, they can be manageable. Here are some thoughts to deal with it: </p>
+
+<ul> 
+	<li>Realize that it is up to you. You have to make it work. </li>
+    <li>Attend one lecture and get the notes from the other (start with the web notes, but that's not enough). </li>
+    <li>Find a friend in the one you miss and get them to tell you what else was covered in class that's not on the web. </li>
+    <li>Which one do you miss? - Some ideas to help you with that decision are:</li>
+ 		<ul> 
+        	<li>If you miss one out of two lectures for a subject, that's 50%. If you miss one out of 3 that's 33%. </li>
+            <li>Which one are you most on top of?</li>
+            <li>Which subject has the most complete lecture notes?</li>
+        </ul>
+    <li>Don't ask your lecturer - "did I miss anything in the lecture?" If you didn't miss anything, there'd be no point to lectures.</li>
+
+</ul>
+ 	  
+
+<!--TemplateEndEditable-->
+<p id="Footer">Footer</p>
+
+</body>
+</html>
